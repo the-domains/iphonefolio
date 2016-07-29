@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.6532105887308717
 name: iPhonefolio
+navigation:
+  - name: About
+    url: 'http://thegrid.ai/iphonefolio/about'
+    type: external
 title: iPhonefolio
 description: Life of an iPhoneographer
