@@ -1,0 +1,14 @@
+layout_spectrum: 0.6532105887308717
+typography_spectrum: 0.2990926094353199
+color:
+  brandStrength: 0.7277747786138207
+  lightness: 0.7383160258177668
+  saturation: 0.9613817946519703
+  rhythmicContrast: 0.8846040470525622
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: iPhonefolio
